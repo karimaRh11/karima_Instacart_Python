@@ -1,4 +1,4 @@
-## karima-instacart project overview
+# karima-instacart project overview
 Instacart, an online grocery store that operates through an app.
 The achievement 4 is about to perform an initial data and exploratory analysis in order
  to derive insights and suggest strategies for better segmentation based on
